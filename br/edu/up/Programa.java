@@ -8,7 +8,8 @@ package br.edu.up;
 //import br.edu.up.exercicios.Ex06;
 //import br.edu.up.exercicios.Ex07;
 //import br.edu.up.exercicios.Ex08;
-import br.edu.up.exercicios.Ex09;
+//import br.edu.up.exercicios.Ex09;
+import br.edu.up.exercicios.Ex10;
 
 public class Programa {
     public static void main(String[] args) {
@@ -20,6 +21,7 @@ public class Programa {
         // Ex06.executar();
         // Ex07.executar();
         // Ex08.executar();
-        Ex09.executar();
+        // Ex09.executar();
+        Ex10.executar();
     }
 }
